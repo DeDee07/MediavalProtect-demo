@@ -23,4 +23,4 @@
 
  ## Como se joga
 
-- Têm duas variantes de inimigos. As bolas vermelhas e verdes e as torres são as azuis, enão basicamente clicar no botão do mouse esquerdo e mais nada.
+- Têm duas variantes de inimigos. As bolas vermelhas e verdes e as torres são as azuis, enão basicamente clicar no botão do mouse esquerdo.
