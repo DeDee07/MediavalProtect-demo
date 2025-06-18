@@ -1,0 +1,6 @@
+﻿  MediavalProtect.cpp
+C:\Users\aluno\source\repos\MediavalProtect\MediavalProtect\MediavalProtect.cpp(254,57): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\aluno\source\repos\MediavalProtect\MediavalProtect\MediavalProtect.cpp(254,43): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+  MediavalProtect.vcxproj -> C:\Users\aluno\source\repos\MediavalProtect\x64\Debug\MediavalProtect.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
